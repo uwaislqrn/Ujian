@@ -1,0 +1,144 @@
+*
+{
+    margin:0;
+    padding: 0%
+
+}
+body
+{
+    font-family: sans-serif;
+}
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar
+{
+    background-image: linear-gradient(to right, #000000, #202020);
+    padding: 0 !important;
+}
+.navbar-brand img
+{
+    height: 60px;
+    padding-left: 40px;
+}
+.navbar-nav li
+{
+    padding: 0 10px;
+}
+.navbar-nav li a
+{
+    color: #fff !important;
+    font-weight: 600;
+    float: right;
+    text-align: left;
+}
+.fa-caret-square-o-down
+{
+    color: #fff;
+}
+.navbar-toggler
+{
+    outline: none !important;
+}
+
+/*---------------------BANNER SECTION---------------------*/
+
+#banner
+{
+    background-image: linear-gradient(to right, #000000, #000000);
+    color: #fff;
+    padding-top: 10%;
+    position: relative;
+   
+}
+.promo-tittle
+{
+    font-size: 40px;
+    font-weight: 600px;
+    margin-top: 100px;
+
+}
+.play-btn
+{
+    width: 45px;
+    margin: 20px;
+}
+#banner a
+{
+    color: #fff;
+    text-decoration: none;
+}
+.home-img img
+{
+    height: 410px;
+    padding-left:150px;
+    position: relative;
+    bottom: -100px;
+}
+.bottom-img
+{
+    width: 100%;
+}
+
+/*----------------------SERVICE SECTION----------------------*/
+
+#services
+{
+    padding: -50px;
+    position: relative;
+    bottom: -90px;
+
+}
+.service-img
+{
+    width: 540px;
+    margin-top: 10px;
+    position: relative;
+    top: -330px;
+    
+}
+.promo2-tittle
+{
+    font-size: 40px;
+    font-weight: 600px;
+    margin-top: 100px;
+    position: relative;
+    left: 800px;
+}
+.textjob
+{
+    position: relative;
+    left: 800px;
+    
+}
+
+/*---------------ABOUT US------------*/
+#about-us
+{
+    background: #000000;
+    padding-bottom: -10px;
+    padding-top: 500px;
+    color: #fff;
+}
+.aboutus
+{
+    color: #fff;
+    text-align: center;
+    position: relative;
+    left: 285px;
+    top: -200px;  
+}
+.text-center
+{
+    position: relative;
+    top: -230px;  
+}
+.bottom2-img
+{
+    position: relative;
+    top: 0px;
+    width: 100%;  
+}
